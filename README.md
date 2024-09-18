@@ -2,6 +2,8 @@
 <h3 align="center">A passionate AI/Data Science and Computer Engineering student at University of Deusto from Spain</h3>
 
 - ⚡ **Fascionated about technology and data, I’m a double major student in Computer Engineering and Data Science & Artificial Intelligence. With a strong foundation in programming and machine learning, I aim to create innovative solutions through data-driven approaches. Currently working on projects that involve classification, regression, and clustering techniques, I am eager to explore real-world challenges and contribute to impactful data-driven transformations.**
+  
+- 📫 How to reach me **aitor10mateo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
